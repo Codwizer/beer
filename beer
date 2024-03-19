@@ -6,4 +6,4 @@ else
     usr="/usr"
 fi
 
-cat $usr/share/idinahui-assets/text.txt | cowsay -n | lolcat
+cat $usr/share/beer-assets/text.txt | cowsay -n | lolcat
